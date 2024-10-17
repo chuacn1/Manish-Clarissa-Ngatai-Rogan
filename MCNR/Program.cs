@@ -4,6 +4,7 @@ namespace MCNR
 {
     internal class Program
     {
+
         static void NPC()
         {
             int choose;
@@ -17,12 +18,20 @@ namespace MCNR
 
         }
 
+
+        
+
         static void Main(string[] args)
         {
             
 
         }
+
         
+
+
+      
+
     }
         
 }
